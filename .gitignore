@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+.dart_tool/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Dependencies
+.packages
+pubspec.lock
