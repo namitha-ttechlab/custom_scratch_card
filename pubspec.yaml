@@ -1,7 +1,10 @@
 name: custom_scratch_card
-description: A customizable scratch card widget for Flutter.
+description: A customizable scratch card widget for Flutter with reveal percentage and callback support.
 version: 0.0.1
-repository: https://github.com/your-repo/custom_scratch_card
+
+homepage: https://github.com/namitha-ttechlab/custom_scratch_card
+repository: https://github.com/namitha-ttechlab/custom_scratch_card
+issue_tracker: https://github.com/namitha-ttechlab/custom_scratch_card/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -15,5 +18,8 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
 
-flutter:
-  uses-material-design: true
+topics:
+  - scratch
+  - animation
+  - widget
+  - flutter
